@@ -1,0 +1,23 @@
+            body
+            {
+                font-family: sans-serif;
+                background-image: url(800px_COLOURBOX3759418.jpg);
+            }
+            body > .pu{
+                background-color: rgb(237,30,36);
+                width: 27%;
+                height:35%;
+            }
+            #shape
+            {
+                width: 200px;
+                height: 200px;
+               
+                display: none; 
+                position: relative;
+                
+            }
+             div:empty
+            {
+                display:block;
+            }
